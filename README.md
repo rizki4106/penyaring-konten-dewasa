@@ -7,7 +7,7 @@ source code ini merupakan sebuah module python yang bisa digunakan untuk memfilt
 ### Installasi
 
 ```bash
-git clone https://github.com/rizki4106/penyaring-konten-dewasa
+git clone https://github.com/rizki4106/penyaring-konten-dewasa.git
 ```
 
 ```bash
